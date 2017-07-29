@@ -6,6 +6,10 @@
 
 请注意文章内容不见得都正确，服用前三思。
 
+## Github使用笔记
+1.Watch,star,fork
+
+
 ## 好用的工具
 1.AutoDesk Invertor Professional 2017
 
