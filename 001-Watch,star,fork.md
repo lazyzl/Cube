@@ -66,15 +66,11 @@ Notification 将接收 Watching 代码库的动态，包括：
 
 ## Tips :
 
-1. 写完这个简单的文本后，发现竟然在 Preview changes 里面还是显示代码形态。
-
-仔细检查后发现，原来是文件的名称格式不对。
-
-加上.md后，终于可以预览了
+1. 写完这个简单的文本后，发现竟然在 Preview changes 里面还是显示代码形态。仔细检查后发现，原来是文件的名称格式不对。加上.md后，终于可以正常预览了。
 
 2. 下一步学习如何给单个文本添加颜色或字体
 
 ---
 ### 文中引用了如下文章的部分内容：
 
-Github中Watch 和 Star 的区别 ，http://blog.csdn.net/esther_heesch/article/details/51511187
+1. Github中Watch 和 Star 的区别 ，http://blog.csdn.net/esther_heesch/article/details/51511187
